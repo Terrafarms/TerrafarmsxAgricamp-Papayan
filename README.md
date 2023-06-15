@@ -1,3 +1,6 @@
+
+ ![papayan](https://github.com/Terrafarms/TerrafarmsxAgricamp-Papayan/assets/54931717/71bf9936-bed0-4fbf-ae47-a4eca39704ee)
+
 # TerrafarmsxAgricamp-Papayan
 Here is our journey, terrafarms team in Pancamandala, Tasikmalaya, West Java
 
