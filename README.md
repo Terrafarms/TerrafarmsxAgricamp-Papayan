@@ -38,3 +38,8 @@ However, there were many incidents that occurred during our journey. We got stuc
 
 [Foto foto keberangkatan dan malam sebelum ke papayan]
 
+On the day before our application launch event, we received a lot of help from the community and the officials of Papayan village. They assisted us in setting up the tents, sound system, and inviting the invited guests to attend the Terrafarms application launch. We prepared everything to the best of our abilities and practiced to deliver the event as well as possible.
+
+The day of the launch arrived, and we explained about Terrafarms to the community and our invited guests, demonstrating how our IoT system works, how to use our application, and the benefits it can bring to farmers and the community. We are grateful to have received appreciation from the community, farmers, officials, and local community figures. We also received valuable feedback for the future development of Terrafarms. We express our gratitude to Papayan village and the Pancamandala community because without their help, we would not have been able to reach this point.
+
+[Foto foto acara peluncuran aplikasi terrafarms]
