@@ -24,11 +24,9 @@ Furthermore, after engaging in extensive discussions with Kang Anang and other f
 
 The evening arrived, and we set off to meet a prominent figure in the local community named Kang Irman. He is an expert from the Directorate General of Village Administration at the Ministry of Home Affairs, as well as an expert in two other ministries. We had extensive discussions about the issues faced not only by farmers but also by the entire village, in order to understand how a rural system works and how different components work together. We also received valuable insights and feedback from Kang Irman regarding the application and system we are developing.
 
-[Foto foto dirumah kang Irman]
-
 On the second and third day, we focused on speaking with farmers and listening to their feedback, suggestions, and various concerns. We continuously engaged in trial and error to test the solutions we had devised, as well as those recommended by the farmers. Eventually, the time came for us to bid farewell to the local community and return to the village hall to plan for the upcoming launch of the application, which is scheduled to take place in one month after the completion of its development.
 
-[Kumpulan foto foto hari kedua dan ketiga sama diskusi terakhir di kantor desa]
+![Kumpulan foto foto hari kedua dan ketiga sama diskusi terakhir di kantor desa](https://github.com/Terrafarms/TerrafarmsxAgricamp-Papayan/assets/66078837/c62a6a62-8ddd-48a4-b461-954fdf8565a3)
 
 ## Our second visit to Papayan
 
@@ -42,4 +40,8 @@ On the day before our application launch event, we received a lot of help from t
 
 The day of the launch arrived, and we explained about Terrafarms to the community and our invited guests, demonstrating how our IoT system works, how to use our application, and the benefits it can bring to farmers and the community. We are grateful to have received appreciation from the community, farmers, officials, and local community figures. We also received valuable feedback for the future development of Terrafarms. We express our gratitude to Papayan village and the Pancamandala community because without their help, we would not have been able to reach this point.
 
-[Foto foto acara peluncuran aplikasi terrafarms]
+![image](https://github.com/Terrafarms/TerrafarmsxAgricamp-Papayan/assets/66078837/de65631c-6e0d-45c4-9e9b-10e77833d9f0)
+![image](https://github.com/Terrafarms/TerrafarmsxAgricamp-Papayan/assets/66078837/fbb19806-dcfb-4c21-ad85-b813bb0193d5)
+![image](https://github.com/Terrafarms/TerrafarmsxAgricamp-Papayan/assets/66078837/d03315ce-9852-498c-8a54-660cbdf5c865)
+
+
